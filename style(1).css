@@ -1,0 +1,627 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.divikryesor1{
+    width: 100%;
+    height: 100%;
+    background-color: #e7d5c7;
+    position: relative;
+  padding-bottom: 30px;
+}
+/* .photointroducing{
+    background-color: #e7d5c7;
+    width: 50%;
+  
+} */
+
+.photobackground{
+    width: 45%;
+  
+    position: absolute;
+}
+
+.littlerida{
+position: absolute;
+left: 50px;
+width: 15%;
+}
+.introducing{
+    background-color: #e7d5c7;
+    width: 58%; 
+    float: right;
+    /* padding-bottom: 11.5%;  */
+padding-bottom: 9%;
+  
+}
+
+
+  h1{
+    font-family: 'Monsieur La Doulaise', cursive;
+
+ 
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+    /* transform: rotate(-10deg); */
+} 
+
+
+.portofolio{
+
+
+  
+ margin: auto;
+    font-size: 40px;
+    font-weight: 600;
+    width: 80%;
+    font-family: 'Federo', sans-serif;
+    text-align: center;
+   
+
+}  
+
+ .simple{
+    
+    border: 0.7px solid rgb(0, 0, 0);
+    width: 40%;
+
+margin-top: 20px;
+  margin: auto;
+  justify-content: center;
+  
+    
+} 
+.introducing h3{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4px;
+    
+    font-weight: 200;
+ 
+}
+.papers{
+    width: 100%;
+}
+.paper{
+    width: 100%;
+  height: 100%;
+ margin-top:  8%;
+ float: left;
+
+
+}
+.paper1{
+    width: 100%;
+    /* position: absolute; */
+  height: 100%;
+margin-top: -5%;
+ float: left;
+
+
+}
+
+ .divikryesor2{
+    background-color:#f7f6f3;
+     border: 1px solid black;
+  
+     width: 70%;
+  margin: auto;
+  text-align: center;
+  
+  
+ }
+ /* .fotojaridamask{
+     width: 30%;
+ 
+ }
+ .ridamask{
+     width: 100%;
+  float: left;
+  margin: 10px;
+  
+     
+ } */
+
+ .itsme{
+    font-family: 'Charm', cursive;
+    font-size: 30px;
+    font-weight: 200;
+     float: right;
+    margin-right: 20%;
+    margin: auto;
+ }
+ .aboutme{
+    width: 50%;
+float: right;
+margin-top: 20px;
+margin-right: 30px;
+ margin-top: 20px;
+margin: auto;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Roboto Flex', sans-serif;
+text-transform: uppercase;
+font-weight: 300;
+ }
+ /* .feride{
+  
+     width: 50%;
+     text-align: center;
+     /* right: 7%; */
+  /* position: absolute;
+  top: 125%;
+  margin: auto;
+    
+     font-family: 'Raleway', sans-serif;
+ } */ 
+ h4{
+    position: absolute;
+    top: 170%;
+    right: 32%;
+    font-family: 'Charm', cursive;
+    font-weight: 200;
+
+ }
+ .divikryesor3{
+    background-color: #e7d5c7;
+    width: 100%;
+ padding-top: 50px;
+ padding-bottom: 50px;
+
+  position: relative;
+margin-top: 100%;
+}
+.things{
+    text-align: center;
+    justify-content: center;
+}
+.gallery{
+    width: 80%;
+    position: relative;
+    padding-top: 30px;
+    margin: auto;
+}
+.melophile{
+    width: 40%;
+    position: relative;
+   
+}
+.paragraph1{
+    width: 35%;
+   position: absolute;
+   top: 90%;  
+   margin-left: 2.5%;
+ 
+text-align: center;
+background-color: rgba(0, 0, 0, 0.64);
+color: white;
+     
+}
+.simple3{
+    border: 0.5px solid rgb(0, 0, 0);
+width: 104%;
+transform: rotate(90deg);
+margin-top: -4%;
+/* position: absolute; */
+
+    
+}
+.photo2{
+    width: 40%;
+    float:right;
+    position: relative;
+    margin-top: -45%;
+}
+.catsphoto{
+    width: 80%;
+    position: relative;
+}
+.cath2{
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+.paragraph2{
+    width: 90%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+.simple2{
+    border: 0.7px solid rgb(0, 0, 0);
+    margin-top: 8%;
+      width: 104%;
+      position: absolute;
+}
+.photo3{
+    width: 40%;
+
+}
+
+
+  
+
+/* .h2{
+    width: 50%;
+} */
+/* text-align: center; */
+/* padding: 5px;
+margin-top: 5%;
+margin-bottom: 100px; */
+    /* background-color: #bdcbc9; */
+    /* border: 1px solid black;
+
+
+
+/* 
+.ridagrown1{
+    width: 40%;
+    margin: 5px;
+}
+.itsme{
+position: absolute;
+right: 20%;
+top: 10%;
+font-family: 'Charm', cursive;
+font-size: 30px;
+font-weight: 200;
+}
+
+.aboutme{
+    width: 50%;
+    position: absolute;
+    right: 5%;
+    top: 25%;
+    text-align: center;
+    font-family: 'Roboto Flex', sans-serif;
+text-transform: uppercase;
+font-weight: 300;
+}
+
+.feride{
+    width: 50%;
+    text-align: center;
+    right: 5%;
+    position: absolute;
+    top: 40%;
+    font-family: 'Raleway', sans-serif;
+}
+.papers{
+    width: 100%;
+}
+.paper{
+    width: 50%;
+  height: 30%;
+    position: absolute;
+top: 82%;
+
+}
+.paper1{
+    width: 50%;
+  height: 30%;
+  right: 0%;
+    position: absolute;
+    top: 82%;
+}
+
+
+
+h4{
+    position: absolute;
+    top: 95%;
+    right: 25%;
+    font-family: 'Charm', cursive;
+    font-weight: 200;
+}
+
+.divikryesor3{
+    background-color: #e7d5c7;
+    width: 100%;
+    height: 30%;
+padding-top: 50px;
+padding-bottom: 50px;
+  
+
+}
+ .things{
+    text-align: center;
+    font-family: 'Charm', cursive;
+    margin: auto;
+}
+.simple2{
+    border: 1px solid rgb(0, 0, 0);
+  margin-top: 0%;
+    width: 99.7%;
+    position: absolute;
+    
+}
+.simple3{
+    border: 0.5px solid rgb(0, 0, 0);
+width: 104%;
+transform: rotate(90deg);
+margin-top: -6.2%;
+position: absolute;
+
+    
+}
+ .gallery{
+background-color: #c6aca0e8;
+    width: 100%;
+   position: relative;
+    /* margin: auto; */
+    
+/* } 
+.photo1{
+    width: 40%;
+    margin: 10px;
+    padding: 40px;
+
+}
+.melophile{
+    width: 100%;
+}
+
+ .paragraph1{
+    position: absolute; width: 30%;
+   
+margin-top: -10%;
+margin-left: 5%;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.64);
+color: white;
+
+} 
+.photo2{
+    width: 40%;
+    margin: 30px;
+    margin-top: 60px;
+    padding: 10px;
+    right: 0%;
+    position: absolute;
+top: 0%;
+}
+.catsphoto{
+    width: 80%;
+    
+} */
+/* .paragraph2{
+    width: 80%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+.cath2{
+   margin: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    
+}
+.photo3{
+    width: 40%;
+   /* margin-left: 10%; */
+   /* margin-top: 5%;
+   padding: 30px;
+} */
+/* .programming{
+    width: 60%;
+    margin: auto;
+    margin-left: 20%;
+  
+   
+} */
+/* .prgh2{ */
+    /* font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-weight:bolder;
+    margin-left: 20%;
+}
+.paragraph3{
+width: 80%;
+margin-top: 20px;
+margin-left: 20%;
+font-family: 'Raleway', sans-serif;
+}
+
+.photo4{
+    width: 40%;
+    float: right;
+    margin-top: -30%;
+     */ 
+/* }
+.paragraph4{
+  width: 90%;
+
+  
+  font-family: 'Mulish', sans-serif;
+
+
+   font-size: 20px;
+
+    }
+    .simple4{
+        border: 1px solid black;
+        width: 35%;
+        margin: 20px;
+        float: right;
+    }
+    .simple5{
+        border: 1px solid black;
+        width: 35%;
+        margin: 20px;
+        float: left;
+       
+    }
+    .thework{
+        text-align: center;
+        margin: auto;
+        justify-content: center;
+        margin-top: 15px;
+        font-family: 'Raleway', sans-serif;
+    }
+.paragraphweb{
+    top: 10%;
+    width: 80%;
+}
+.paragraphweb p{
+    width: 100%;
+} */
+/* @media screen and (min-device-width:320px) and (max-device-width:767px) {
+    .photobackground {
+        width: 35%;
+        position: relative;
+    }
+    .littlerida {
+        position: absolute;
+        top: 3px;
+        left: 20px;
+        width: 10%;
+    }
+    h1 {
+        font-family: 'Monsieur La Doulaise', cursive;
+        top: 1%;
+        position: absolute;
+        right: 40%;
+        font-size: 20px;
+        font-weight: 300;
+        transform: rotate(-10deg);
+    }
+    .developer{
+        top: 0%;
+    }
+    .portofolio {
+        top: 5%;
+        position: absolute;
+        right: 35%;
+        font-size: 10px;
+        font-weight: 600;
+        width: 30%;
+        font-family: 'Federo', sans-serif;
+        text-align: center;
+    }
+    .upcoming {
+        text-align: center;
+        font-size: 4px;
+        top: 9%;
+        position: absolute;
+        float: right; */
+        /* top: 60%; */
+        /* right: 35%;
+        font-family: 'Nanum Gothic', sans-serif;
+    } */
+    /* .paper {
+        width: 50%;
+        height: 10%;
+        position: absolute;
+        top: 12%;
+    }
+    .paper1 {
+        width: 50%;
+        height: 10%;
+        right: 0%;
+        position: absolute;
+        top: 12%;
+    } */ 
+
+    /* .divikryesor2 {
+        width: 70%;
+        position: relative;
+        margin: auto;
+        /* text-align: center; */
+        /* padding: 30px;
+        margin-top: 15%;
+        margin-bottom: 100px; */
+        /* background-color: #bdcbc9; */
+        /* border: 1px solid black;
+        background-color: #f7f6f3; */
+    /* } */ 
+    /* .itsme {
+        position: absolute;
+        right: 20%;
+        top: 10%;
+        font-family: 'Charm', cursive;
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .aboutme {
+        width: 50%;
+        position: absolute;
+        right: 5%;
+        top: 20%;
+        text-align: center;
+        font-family: 'Roboto Flex', sans-serif;
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 08px;
+    }
+    .divikryesor2 {
+        width: 70%;
+        /* height: 130%; */
+        /* position: relative;
+        margin: auto; */
+        /* text-align: center; */
+        /* padding: 30px;
+        padding-bottom: 150px;
+        margin-top: 15%;
+        margin-bottom: 70px; */
+        /* background-color: #bdcbc9; */
+        /* border: 1px solid black;
+        background-color: #f7f6f3;
+    } */
+    /* .feride {
+        width: 50%;
+        text-align: center;
+        right: 5%; */
+        /* float: left; */
+        /* position: absolute;
+        top: 30%;
+        font-size: 8.5px;
+        font-family: 'Raleway', sans-serif;
+    }
+    h4 {
+        position: absolute;
+        top: 90%;
+        right: 20%;
+        font-size: 15px;
+        font-family: 'Charm', cursive;
+        font-weight: 200;
+    }
+    .divikryesor3 {
+        background-color: #e7d5c7;
+        width: 100%;
+        height: 20%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 70px;
+    } */
+/* } 
+.photo2{
+    width: 33%;
+    margin: 20px;
+    float: left;
+
+}
+.photo3{
+    width: 33%;
+    margin: 20px;
+  
+}
+.photo4{
+    width: 33%;
+    margin: 20px;
+    float: left;
+   
+}
+  
+.photo1{
+    width: 40%;
+    margin: 20px;
+    border: 1px solid black;
+    position: relative;
+    padding: 20px;
+}
+*/
